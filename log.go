@@ -1,7 +1,7 @@
 package wire
 
 import (
-	"github.com/neatio-project/go-logger"
+	"github.com/neatlib/logger-go"
 )
 
 var log = logger.New("module", "binary")
