@@ -1,1 +1,1 @@
-# wire-go library
+# Wire Go Library
